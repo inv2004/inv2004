@@ -1,1 +1,1 @@
-**Blog**: https://t.me/inv2004_dev_blog
+**Blog**: https://t.me/s/inv2004_dev_blog
