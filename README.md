@@ -1,7 +1,9 @@
-System architecture/Clickhouse/Golang consultations via email or telegram
+Backend & ETL system Tech Lead dev / Architect with 6+ years experience in financial industry (Deutsche Bank) and 10 years in telecom (Swisscom)
 
-**Telegram**: https://t.me/inv2004
+**For system architecture/Clickhouse/Golang consultations please contact by email or telegram**
 
-**Email**: inv2004@gmail.com
+- **Telegram**: https://t.me/inv2004
 
-**Blog**: https://t.me/s/inv2004_dev_blog
+- **Email**: inv2004@gmail.com
+
+- **Blog**: https://t.me/s/inv2004_dev_blog
